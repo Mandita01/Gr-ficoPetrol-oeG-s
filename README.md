@@ -17,18 +17,6 @@ A imagem abaixo apresenta a visão geral dos dados e indicadores analisados no p
 
 ![Dashboard da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
-## Tabela de indicadores
-
-A tabela abaixo resume os principais indicadores por ano, incluindo a quantidade de recursos, reuso e downloads.
-
-![Tabela de indicadores da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
-
-## Gráfico comparativo anual
-
-O gráfico abaixo compara a evolução dos indicadores anualmente, permitindo visualizar tendências e variações entre os anos.
-
-![Gráfico comparativo da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
-
 ## Arquivos do projeto
 
 - [RELAÇÃO DE DADOS Mondal ANP.xlsx](./RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — planilha com os dados da ANP.
