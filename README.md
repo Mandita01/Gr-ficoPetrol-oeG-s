@@ -17,6 +17,12 @@ A imagem abaixo apresenta a visão geral dos dados e indicadores analisados no p
 
 ![Dashboard da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
+## Comparativo anual
+
+A imagem abaixo mostra a evolução dos indicadores ao longo dos anos, com destaque para a quantidade de recursos, reuso e downloads por período.
+
+![Comparativo anual da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+
 ## Arquivos do projeto
 
 - [RELAÇÃO DE DADOS Mondal ANP.xlsx](./RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — planilha com os dados da ANP.
