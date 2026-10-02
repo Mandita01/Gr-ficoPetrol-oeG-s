@@ -1,14 +1,20 @@
 # Projeto ANP
 
-Este repositório contém o conjunto de dados e a visualização relacionada à análise de dados da ANP.
+Este repositório reúne dados e visualizações relacionadas à análise de informações da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis).
 
 ## Visão geral
 
-### Qual categoria apresenta a maior participação no gráfico de dados ANP e qual é o seu percentual
+O projeto tem como objetivo apresentar os dados e o comportamento dos indicadores por ano, com foco em recursos, downloads e comparativos de uso.
 
-![Gráfico de dados da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+## Imagens do projeto
 
-A imagem acima mostra a representação visual do conjunto de dados analisados.
+### Dashboard principal
+
+![Dashboard principal da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+
+### Comparativo anual
+
+![Comparativo anual dos dados da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
 ## Arquivos do projeto
 
@@ -17,4 +23,4 @@ A imagem acima mostra a representação visual do conjunto de dados analisados.
 
 ## Descrição
 
-Este projeto reúne os dados e a visualização do estudo relacionado à produção e distribuição de petróleo e gás, com foco na análise da ANP.
+Este projeto reúne dados e visualizações relacionadas à ANP, com foco em análise comparativa de série temporal e indicadores de uso por ano.
