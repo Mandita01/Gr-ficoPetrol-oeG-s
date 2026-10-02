@@ -1,26 +1,36 @@
 # Projeto ANP
 
-Este repositório reúne dados e visualizações relacionadas à análise de informações da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis).
+Este repositório reúne dados e visualizações relacionadas à análise de informações da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis). O objetivo do projeto é organizar e apresentar indicadores em formato visual para facilitar a leitura e a comparação dos dados ao longo dos anos.
 
 ## Visão geral
 
-O projeto tem como objetivo apresentar os dados e o comportamento dos indicadores por ano, com foco em recursos, downloads e comparativos de uso.
+O projeto contém uma base de dados da ANP e uma representação gráfica dos indicadores analisados, com foco em:
 
-## Imagens do projeto
+- comparações anuais;
+- volume de recursos e downloads;
+- análise de uso e distribuição dos dados;
+- visualização de informações em formato acessível.
 
-### Dashboard principal
+## Dashboard
 
-![Dashboard principal da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+A imagem abaixo apresenta a visão geral dos dados e indicadores analisados no projeto.
 
-### Comparativo anual
+![Dashboard da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
-![Comparativo anual dos dados da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+## Análise dos dados
+
+Os gráficos e tabelas incluídos no projeto permitem acompanhar a evolução dos indicadores ao longo dos anos, destacando tendências e variações entre diferentes períodos.
 
 ## Arquivos do projeto
 
-- [RELAÇÃO DE DADOS Mondal ANP.xlsx](./RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx)
-- [Captura de tela 2026-10-02 143002.png](./Captura%20de%20tela%202026-10-02%20143002.png)
+- [RELAÇÃO DE DADOS Mondal ANP.xlsx](./RELA%C3%87%C3%83O%20DE%20DADOS%20Mondal%20ANP.xlsx) — planilha com os dados da ANP.
+- [Captura de tela 2026-10-02 143002.png](./Captura%20de%20tela%202026-10-02%20143002.png) — visualização do dashboard e indicadores.
 
 ## Descrição
 
-Este projeto reúne dados e visualizações relacionadas à ANP, com foco em análise comparativa de série temporal e indicadores de uso por ano.
+Este projeto tem como finalidade apresentar a estrutura e a visualização de dados da ANP em um formato organizado e de fácil consulta. A proposta é permitir uma leitura mais clara de indicadores-chave e apoiar a análise comparativa entre anos.
+
+## Observações
+
+- O projeto foi desenvolvido como apoio à análise de dados e visualização de informações.
+- Os dados podem ser atualizados ou enriquecidos conforme novas fontes ou necessidades de análise.
