@@ -23,7 +23,7 @@ A seguir, estão as principais imagens do projeto, mostrando os principais pain�
 
 ![Indicadores e distribuição de dados](./Captura%20de%20tela%202026-10-02%20153651.png)
 
-### 3. Estatísticas de recursos e downloads
+### 3. Estatísticas de recursos e downloads dos últimos 8 anos
 
 ![Estatísticas de recursos e downloads](./Captura%20de%20tela%202026-10-02%20153737.png)
 
