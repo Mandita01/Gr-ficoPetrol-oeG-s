@@ -11,15 +11,23 @@ O projeto contém uma base de dados da ANP e uma representação gráfica dos in
 - análise de uso e distribuição dos dados;
 - visualização de informações em formato acessível.
 
-## Dashboard
+## Dashboard principal
 
 A imagem abaixo apresenta a visão geral dos dados e indicadores analisados no projeto.
 
 ![Dashboard da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
-## Análise dos dados
+## Tabela de indicadores
 
-Os gráficos e tabelas incluídos no projeto permitem acompanhar a evolução dos indicadores ao longo dos anos, destacando tendências e variações entre diferentes períodos.
+A tabela abaixo resume os principais indicadores por ano, incluindo a quantidade de recursos, reuso e downloads.
+
+![Tabela de indicadores da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
+
+## Gráfico comparativo anual
+
+O gráfico abaixo compara a evolução dos indicadores anualmente, permitindo visualizar tendências e variações entre os anos.
+
+![Gráfico comparativo da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
 ## Arquivos do projeto
 
