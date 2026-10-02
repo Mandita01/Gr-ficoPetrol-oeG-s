@@ -4,6 +4,8 @@ Este repositório contém o conjunto de dados e a visualização relacionada à 
 
 ## Visão geral
 
+### Qual categoria apresenta a maior participação no gráfico de dados ANP e qual é o seu percentual
+
 ![Gráfico de dados da ANP](./Captura%20de%20tela%202026-10-02%20143002.png)
 
 A imagem acima mostra a representação visual do conjunto de dados analisados.
